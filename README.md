@@ -18,3 +18,5 @@
   -8. Ceaser Cipher program[https://replit.com/@hadiasajj2004/Python-15?v=1]
   -9. secret auction bidding program[https://replit.com/@hadiasajj2004/Python-17?v=1]
   -10.Calculator using python[https://replit.com/@hadiasajj2004/Python-19?v=1]
+  -11. Number Guessing Game[https://replit.com/@hadiasajj2004/nummber-guessing-game?v=1]
+  -12. Higher Or Lower Game[https://replit.com/@hadiasajj2004/Higher-or-Lower-Game?v=1]  
