@@ -91,8 +91,41 @@ Custom shell that runs its own commands as well as system commands, with a GUI f
 
 <!--My contribution graph appears below this README on my profile page. -->
 
-<!-- --- -->
 ---
+## Tech stack
+
+**Languages:** Python · Kotlin · C++ · JavaScript · HTML/CSS
+
+**AI / ML:** XGBoost · TensorFlow / Keras · TensorFlow Lite · SHAP · CVXPY · Pandas
+
+**Mobile:** Android · Kotlin · MVVM · Clean Architecture · Room · CameraX · WorkManager · Firebase
+
+**Web:** Node.js · Express · Streamlit · REST API integration
+
+**Tools:** Git · GitHub · VS Code · Jupyter · Wireshark · draw.io · MATLAB
+
+---
+
+---
+
+## Currently exploring
+
+- Explainable AI for financial and health-related predictions
+- On-device ML for mobile apps
+- LLM-powered applications
+- Full-stack engineering (React / FastAPI)
+
+---
+
+## Get in touch
+
+I'm looking for internship and junior roles in **AI/ML, Android and web development**.
+
+📫 [hadiasajj2004@gmail.com](mailto:hadiasajj2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hadia-sajjad-a428a6276)
+
+
+<!-- --- -->
+<!-- ---
 ## Python Mini Projects
 
 Python Projects:
@@ -137,4 +170,4 @@ Python Projects:
 
 I'm looking for internship and junior roles in **AI/ML, Android and web development**.
 
-📫 [hadiasajj2004@gmail.com](mailto:hadiasajj2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hadia-sajjad-a428a6276)
+📫 [hadiasajj2004@gmail.com](mailto:hadiasajj2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hadia-sajjad-a428a6276) -->
